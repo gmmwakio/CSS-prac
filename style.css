@@ -1,0 +1,32 @@
+p{
+    /* this is an element selector and all elements of <p> will be affected */
+    color: blue;
+    text-align:center;
+    background-color: black,;
+    font-size: 30px;
+    opacity: 0.99;
+    
+}
+
+.btn {
+    color: red;
+    font-size: 25px;
+    background-color: green;
+    
+    
+}
+
+/* This rule targets the element with the id "head3" */
+#head3 {
+  width: 200px;
+  border: 1px solid pink;
+  text-size-adjust: inherit;
+  background-color: yellow;
+  opacity: 0.5;
+}
+
+body{
+    background-color: gray;
+    /* background-image: url(https://images.pexels.com/photos/33680070/pexels-photo-33680070.jpeg); */
+    
+}
